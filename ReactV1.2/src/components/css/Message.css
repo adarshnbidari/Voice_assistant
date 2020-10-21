@@ -1,0 +1,18 @@
+#message{
+
+    display:block;
+    min-width:10%;
+    max-width:50%;
+    min-height:2vh;
+    max-height:3.5vh;
+    margin-top:2%;
+    background-color:#0F1221;
+    border-radius:10px;
+    word-wrap:break-word;
+    padding:5px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+    
+}

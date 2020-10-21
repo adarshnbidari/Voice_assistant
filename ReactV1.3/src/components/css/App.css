@@ -1,0 +1,40 @@
+#message_container{
+
+    display:-webkit-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width:100%;
+    height:90vh;
+
+
+}
+
+
+#ai_animation{
+
+    width:auto;
+    height:45vh;
+
+}
+
+
+@media screen and (max-width:320px){
+    
+}
+
+
+@media screen and (min-width:321px) and (max-width:375px){
+    
+}
+
+
+@media screen and (min-width:376px) and (max-width:425px){
+    
+}
+
+
+@media screen and (min-width:426px) and (max-width:768px){
+    
+}
